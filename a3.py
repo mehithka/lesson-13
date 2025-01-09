@@ -1,12 +1,15 @@
 def add(P,Q):
   added =  P+Q 
   print(added)
+
 def subtract(P,Q):
     subtracted = P-Q
     print(subtracted)
+
 def multiply(P,Q):
     multiplied = P*Q
     print(multiplied)
+    
 def divide(P,Q):
     divided = P/Q
     print(divided)
